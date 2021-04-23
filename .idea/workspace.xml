@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a574df5-da96-4bda-b72c-20b165d58ac8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ChupaBomberman.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/ChupaBomberman.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/org/academiadecodigo/asynctomatics/chupabomberman/Bomb.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/org/academiadecodigo/asynctomatics/chupabomberman/Bomb.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/org/academiadecodigo/asynctomatics/chupabomberman/Environment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/org/academiadecodigo/asynctomatics/chupabomberman/Environment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/org/academiadecodigo/asynctomatics/chupabomberman/Explosion.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/org/academiadecodigo/asynctomatics/chupabomberman/Explosion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/org/academiadecodigo/asynctomatics/chupabomberman/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/org/academiadecodigo/asynctomatics/chupabomberman/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/org/academiadecodigo/asynctomatics/chupabomberman/Music.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/org/academiadecodigo/asynctomatics/chupabomberman/Music.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/org/academiadecodigo/asynctomatics/chupabomberman/StartScreen.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/org/academiadecodigo/asynctomatics/chupabomberman/StartScreen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/org/academiadecodigo/asynctomatics/chupabomberman/gameobject/GameObjectFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/org/academiadecodigo/asynctomatics/chupabomberman/gameobject/GameObjectFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/org/academiadecodigo/asynctomatics/chupabomberman/players/Player2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/org/academiadecodigo/asynctomatics/chupabomberman/players/Player2.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XHTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1o5KwI1MZzRfhHJRC3FEahoo9Pu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="XHTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="org.academiadecodigo.asynctomatics.chupabomberman.Main" />
+      <module name="chupabomberman" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a574df5-da96-4bda-b72c-20b165d58ac8" name="Default Changelist" comment="" />
+      <created>1612571248751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612571248751</updated>
+      <workItem from="1612920532708" duration="2577000" />
+      <workItem from="1613079330250" duration="321000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
